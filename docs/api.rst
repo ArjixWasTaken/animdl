@@ -1,0 +1,5 @@
+.. currentmodule:: animdl
+
+API Reference
+===============
+
